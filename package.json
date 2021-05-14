@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Front-end training project",
   "main": "index.js",
-  "dependencies": {
-    "jquery": "^3.6.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.26.14",
     "del": "^6.0.0",
